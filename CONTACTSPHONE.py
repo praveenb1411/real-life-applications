@@ -1,5 +1,5 @@
 def menu():
-    print('1. print phone numbers')
+    print('1. display all phone numbers')
     print('2. add phone number')
     print('3. remove phone number')
     print('4. search')
